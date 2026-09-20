@@ -1,7 +1,11 @@
 package concessonaria;
 
 public class Veiculo {
-    public static void main(String[] args) {
 
-    }
+    String modeloDoCarro;
+    String marcaDoCarro;
+    String corDoCarro;
+    String placaDoCarro;
+    int anoFabricacao;
+    double precoDoCarro;
 }
